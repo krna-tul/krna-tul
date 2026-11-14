@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" font-family="Segoe UI, Comfortaa, sans-serif">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffd6e8"/><stop offset="1" stop-color="#e3c6f5"/>
+  </linearGradient>
+  <filter id="sh" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#f3a9cc" flood-opacity="0.35"/>
+  </filter>
+</defs>
+<rect x="8" y="8" width="824" height="404" rx="28" fill="#ffffff" stroke="#f8c8dc" stroke-width="2" filter="url(#sh)"/>
+<rect x="8" y="8" width="824" height="64" rx="28" fill="url(#g)"/>
+<rect x="8" y="52" width="824" height="20" fill="#ffffff"/>
+<text x="44" y="44" font-size="25" font-weight="700" fill="#ffffff">💗 Skills Overview</text>
+<text x="796" y="44" text-anchor="end" font-size="15" fill="#ffffff" opacity="0.95">20 навыков</text>
+<path d="M230.00,140.00 A110,110 0 0 1 335.31,281.79 L293.18,269.08 A66,66 0 0 0 230.00,184.00 Z" fill="#ff6fa5"/>
+<path d="M334.62,283.99 A110,110 0 0 1 232.30,359.98 L231.38,315.99 A66,66 0 0 0 292.77,270.40 Z" fill="#ff9ec4"/>
+<path d="M230.00,360.00 A110,110 0 0 1 142.38,316.51 L177.43,289.90 A66,66 0 0 0 230.00,316.00 Z" fill="#d19bd8"/>
+<path d="M141.01,314.66 A110,110 0 0 1 139.67,187.22 L175.80,212.33 A66,66 0 0 0 176.60,288.79 Z" fill="#c9a7eb"/>
+<path d="M141.01,185.34 A110,110 0 0 1 227.70,140.02 L228.62,184.01 A66,66 0 0 0 176.60,211.21 Z" fill="#ffc2de"/>
+<text x="230" y="244" text-anchor="middle" font-size="40" font-weight="800" fill="#ff6fa5">20</text>
+<text x="230" y="272" text-anchor="middle" font-size="14" fill="#b79fbb">skills</text>
+<text x="440" y="142" font-size="15" font-weight="600" fill="#7a5c7e">Языки</text>
+<text x="740" y="142" text-anchor="end" font-size="14" font-weight="700" fill="#ff6fa5">6</text>
+<rect x="440" y="150" width="300" height="14" rx="7" fill="#fbe4ef"/>
+<rect x="440" y="150" width="300.0" height="14" rx="7" fill="#ff6fa5"/>
+<text x="440" y="190" font-size="15" font-weight="600" fill="#7a5c7e">Frontend</text>
+<text x="740" y="190" text-anchor="end" font-size="14" font-weight="700" fill="#ff9ec4">4</text>
+<rect x="440" y="198" width="300" height="14" rx="7" fill="#fbe4ef"/>
+<rect x="440" y="198" width="200.0" height="14" rx="7" fill="#ff9ec4"/>
+<text x="440" y="238" font-size="15" font-weight="600" fill="#7a5c7e">Backend &amp; БД</text>
+<text x="740" y="238" text-anchor="end" font-size="14" font-weight="700" fill="#d19bd8">3</text>
+<rect x="440" y="246" width="300" height="14" rx="7" fill="#fbe4ef"/>
+<rect x="440" y="246" width="150.0" height="14" rx="7" fill="#d19bd8"/>
+<text x="440" y="286" font-size="15" font-weight="600" fill="#7a5c7e">Дизайн</text>
+<text x="740" y="286" text-anchor="end" font-size="14" font-weight="700" fill="#c9a7eb">4</text>
+<rect x="440" y="294" width="300" height="14" rx="7" fill="#fbe4ef"/>
+<rect x="440" y="294" width="200.0" height="14" rx="7" fill="#c9a7eb"/>
+<text x="440" y="334" font-size="15" font-weight="600" fill="#7a5c7e">Инструменты</text>
+<text x="740" y="334" text-anchor="end" font-size="14" font-weight="700" fill="#ffc2de">3</text>
+<rect x="440" y="342" width="300" height="14" rx="7" fill="#fbe4ef"/>
+<rect x="440" y="342" width="150.0" height="14" rx="7" fill="#ffc2de"/>
+</svg>
