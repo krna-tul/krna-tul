@@ -1,7 +1,5 @@
 <!-- ╭──────────────────────────────  HEADER  ──────────────────────────────╮ -->
-<a href="https://github.com/krna-tul">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:e3c6f5&height=190&section=header&text=Karina%20Tulegenova&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=18" alt="header" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:e3c6f5&height=160&section=header" alt="header" />
 
 <h1 align="center">Привет, я Карина 🤍</h1>
 
@@ -27,14 +25,13 @@
 <!-- ╭──────────────────────────────  ABOUT  ──────────────────────────────╮ -->
 ### 💗 Обо мне
 
-Я **Software Developer** и студентка направления **Software Engineering в Astana IT University**.
-Разрабатываю современные веб-приложения и могу работать над продуктом **полностью — от идеи и дизайна интерфейса до frontend, backend, API и базы данных**. Моя основная специализация — разработка на **React и JavaScript**, но я не ограничиваюсь frontend: создаю **fullstack-приложения**, пишу backend на **Python / FastAPI**, работаю с **PostgreSQL и MongoDB**, интегрирую REST API и внешние сервисы.
+Разрабатываю веб-приложения и веду продукт целиком — от дизайна интерфейса до backend, API и базы данных. За плечами около полугода практического опыта. На фронтенде работаю с **React** и **JavaScript**, на бэкенде — **Python / FastAPI**, данные храню в **PostgreSQL** и **MongoDB**, интегрирую REST API и внешние сервисы.
 
 ```yaml
-name:      Karina Tulegenova
-role:      Software Developer · Fullstack · UI/UX
-focus:     React · FastAPI · AI-assisted development
-interests: Software Architecture · Design · Clean UI
+education: Astana IT University — бакалавриат, 2027
+GPA:       3.55 / 4.0
+stack:     React · FastAPI · PostgreSQL · MongoDB
+focus:     Fullstack · UI/UX · AI-assisted development
 ```
 
 <!-- ╭────────────────────────────  TECH STACK  ───────────────────────────╮ -->
