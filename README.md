@@ -1,7 +1,7 @@
 <!-- ╭──────────────────────────────  HEADER  ──────────────────────────────╮ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:e3c6f5&height=160&section=header" alt="header" />
-
-<h1 align="center">Привет, я Карина 🤍</h1>
+<p align="center">
+  <img width="100%" src="banner-hello.svg" alt="Hello, I'm Karina" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3000&pause=800&color=FF6FA5&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Fullstack;React+%E2%80%A2+FastAPI+%E2%80%A2+AI-assisted+dev;UI%2FUX+%E2%80%A2+Figma+%E2%80%A2+Design;Astana+IT+University+%2727" alt="typing" />
